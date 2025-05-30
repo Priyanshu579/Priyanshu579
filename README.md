@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Priyanshu Dhiman!
+# 👋 Hey there, I'm Priyanshu!
 
 🎓 BCA Student | 💻 Frontend Developer | ⚛️ React Enthusiast | 🎥 YouTube Creator (5K+ Family)
 
