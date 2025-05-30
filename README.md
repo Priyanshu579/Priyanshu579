@@ -6,7 +6,6 @@ Welcome to my GitHub! I’m a self-driven learner who started their journey by c
 
 From writing my first line of code in school to now creating projects that blend logic and design — it's been a journey of consistency, curiosity, and creativity.
 
----
 
 ## 🛠️ Tech Stack
 - **Languages:** HTML, CSS, JavaScript, C++
