@@ -12,8 +12,6 @@ From writing my first line of code in school to now creating projects that blend
 - **Frameworks & Libraries:** React.js, Tailwind CSS, Framer Motion
 - **Tools & Platforms:** Vite, Git, GitHub, CapCut, VS Code
 
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 [Animated ToDo](https://github.com/priyanshu579/AnimatedTodo)
@@ -23,7 +21,6 @@ From writing my first line of code in school to now creating projects that blend
 - Animated cat mascot at center for unique vibes
 - Built with ReactJS + Tailwind CSS
 
----
 
 ### 🔹 [Microsoft Homepage Clone](https://priyanshu579.github.io/cloneofMicrosoft)
 > A pixel-perfect, fully responsive clone of the Microsoft homepage.
@@ -31,7 +28,6 @@ From writing my first line of code in school to now creating projects that blend
 - Responsive design using Flexbox & media queries
 - Includes all major Microsoft homepage sections
 
----
 
 ## 🎯 My Learning Journey So Far
 - Started with basic HTML & CSS in school
@@ -40,13 +36,11 @@ From writing my first line of code in school to now creating projects that blend
 - Built real-world mini projects to strengthen frontend skills
 - Currently focused on building a **strong portfolio**
 
----
 
 ## 🎥 Content Creator @ YouTube
 Alongside coding, I also run a YouTube channel with over **5,000 subscribers** where I create short comedy content, manage editing, and drive organic growth.
 
 📺 [@chamkeela on YouTube](https://youtube.com/@chamkeela)
 
----
 
 ⭐ *Thanks for checking out my profile! I'm always open to collaboration, feedback, and conversations. Let’s build something amazing together.*
