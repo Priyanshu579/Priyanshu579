@@ -30,7 +30,7 @@ From writing my first line of code in school to now creating projects that blend
 
 
 ## 🎯 My Learning Journey So Far
-- Started with basic HTML & CSS in school
+- Started with basic HTML in school
 - Revisited old projects to **refactor and modernize** them
 - Learned ReactJS and created animated UIs using Framer Motion
 - Built real-world mini projects to strengthen frontend skills
