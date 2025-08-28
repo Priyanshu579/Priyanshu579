@@ -36,11 +36,3 @@ From writing my first line of code in school to now creating projects that blend
 - Built real-world mini projects to strengthen frontend skills
 - Currently focused on building a **strong portfolio**
 
-
-## 🎥 Content Creator @ YouTube
-Alongside coding, I also run a YouTube channel with over **5,000 subscribers** where I create short comedy content, manage editing, and drive organic growth.
-
-📺 [@chamkeela on YouTube](https://youtube.com/@chamkeela)
-
-
-⭐ *Thanks for checking out my profile! I'm always open to collaboration, feedback, and conversations. Let’s build something amazing together.*
